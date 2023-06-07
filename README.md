@@ -2,4 +2,4 @@
 about font collection for AIM Pro Tweak IOS 14 and higger
 
 ![alt text](
-https://github.com/cupecups/binAMD-FX/blob/c198d1c31083b7741350dcf04ebe9f87355af614/Screenshot%202023-01-29%20at%2016.24.12.png)
+https://github.com/cupecups/AIMFont/blob/2399753215f7afe7f2cec53be60e991b8fef7cf2/screenshoot/Untitled-5-19.png)
